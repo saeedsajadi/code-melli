@@ -1,0 +1,14 @@
+{
+    "name": "code_melli/code_melli",
+    "description": "national code for iranian validator _ code melli validator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saeed sajadi",
+            "email": "smart_twists@yahoo.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
