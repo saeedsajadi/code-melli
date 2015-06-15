@@ -2,6 +2,7 @@
     "name": "code_melli/code_melli",
     "description": "national code for iranian validator _ code melli validator",
     "type": "library",
+    "keywords": ["code_melli", "code melli", "national code", "iranian national code", "validator", "validate"],
     "license": "MIT",
     "authors": [
         {
