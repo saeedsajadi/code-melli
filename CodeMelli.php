@@ -11,9 +11,9 @@
  * @web http://saeedsajadi.ir
  * @email smart_twists@yahoo.co.uk
  */
-namespase code_melli
+namespase CodeMelli
 
-class Melli_code
+class CodeMelli
 {
 	/**
 	 * Hold National Code
