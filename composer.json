@@ -10,6 +10,11 @@
             "email": "smart_twists@yahoo.co.uk"
         }
     ],
+    "autoload" : {
+        "psr-4" : {
+            "CodeMelli\\": ""
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
