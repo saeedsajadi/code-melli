@@ -1,5 +1,5 @@
 {
-    "name": "code_melli/code_melli",
+    "name": "CodeMelli/CodeMelli",
     "description": "national code for iranian validator _ code melli validator",
     "type": "library",
     "keywords": ["code_melli", "code melli", "national code", "iranian national code", "validator", "validate"],
@@ -10,9 +10,9 @@
             "email": "smart_twists@yahoo.co.uk"
         }
     ],
-    "autoload" : {
-        "psr-4" : {
-            "CodeMelli\\": ""
+    "autoload": {
+        "psr-4": {
+            "CodeMelli\\CodeMelli\\": ""
         }
     },
     "minimum-stability": "stable",
